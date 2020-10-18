@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "username": "tranquanghuy",
+        "password": "123456",
+        "email": "huy1@gmail.com",
+        "phoneNumber": 123456789,
+        "address": "Hà nội"
+    },
+    {
+        "id": "2",
+        "username": "username 2",
+        "password": "password 2",
+        "email": "email 2",
+        "phoneNumber": 29,
+        "address": "address 2"
+    },
+    {
+        "id": "3",
+        "username": "username 3",
+        "password": "password 3",
+        "email": "email 3",
+        "phoneNumber": 96,
+        "address": "address 3"
+    },
+    {
+        "id": "4",
+        "username": "username 4",
+        "password": "password 4",
+        "email": "email 4",
+        "phoneNumber": 9,
+        "address": "address 4"
+    },
+    {
+        "id": "5",
+        "username": "username 5",
+        "password": "password 5",
+        "email": "email 5",
+        "phoneNumber": 7,
+        "address": "address 5"
+    },
+    {
+        "id": "6",
+        "username": "username 6",
+        "password": "password 6",
+        "email": "email 6",
+        "phoneNumber": 96,
+        "address": "address 6"
+    },
+    {
+        "id": "7",
+        "username": "username 7",
+        "password": "password 7",
+        "email": "email 7",
+        "phoneNumber": 32,
+        "address": "address 7"
+    },
+    {
+        "id": "8",
+        "username": "username 8",
+        "password": "password 8",
+        "email": "email 8",
+        "phoneNumber": 27,
+        "address": "address 8"
+    }
+]
